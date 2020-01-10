@@ -1,6 +1,3 @@
-.lien{
-    color:#ccff99;
-}
 
  body{
      background:#dea;
@@ -15,7 +12,7 @@
  ul#bar li
 {
 display: inline-block;
-	text-align: center
+	text-align: center;
 }
 
 
@@ -27,7 +24,6 @@ nav{
 }
 nav ul{
     list-style-type: none;
-    display: flex;
     height: 26px;
  }
 
@@ -37,7 +33,6 @@ width: 130px ;
 line-height: 25px ;
 font-size: 0.5cm ;
 font-weight: bold ;
-letter-spacing: 0px ;
 color: #ffff ;
 display:block ;
 text-decoration: none ;
@@ -52,7 +47,7 @@ ul li a:hover {
 div#contenu
 {
 	padding: 0px 25px 0px 100px ;
-	background: url(../img/bg_page.png) no-repeat 10px 15px ;
+	background: url(../img/bg_page.png) no-repeat 5px 20px ;
 	
 }
 
@@ -79,8 +74,8 @@ div#contenu p
     margin-left: 15px ;
 	padding-left: 5px ;
 	text-align: justify ;
-	text-indent: 2em ;
-	line-height: 1.7em ;
+	text-indent: 1cm ;
+	line-height: 0.6cm ;
 }
 div#link a
 {
